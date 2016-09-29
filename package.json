@@ -1,0 +1,16 @@
+{
+  "name": "translation-server",
+  "version": "1.0.0",
+  "description": "Server for storing and retrivinging translations",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "redis": "^2.6.2"
+  }
+}
